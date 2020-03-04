@@ -1,0 +1,2 @@
+rootProject.name='Sinternal'
+include ':app'
